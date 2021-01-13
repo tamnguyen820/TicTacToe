@@ -8,7 +8,7 @@ Follow the below steps to ensure the program runs properly.
 Download and install the lastest version of [Python](https://www.python.org/downloads/).
 
 ### Install Pygame
-Run the command ```pip install pygame``` or ```pip install -r requirements.txt```.
+Run the command ```pip install -r requirements.txt```, or install pygame and numpy in 2 commands.
 
 ### Run the program
 Run the command ```python main.py```.
